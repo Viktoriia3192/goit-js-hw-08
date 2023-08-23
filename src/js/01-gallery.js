@@ -28,3 +28,4 @@ renderGallery();
 const lightbox = new SimpleLightbox('.gallery a', {
   captions: true,
 });
+
